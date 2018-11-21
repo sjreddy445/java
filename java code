@@ -1,0 +1,6 @@
+import java.util.*;
+public class HelloDate{
+public static void main (string[] args) {
+system.out.println("Hello,it's: ");
+system.out.println(new date()):
+}
